@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://xd1@10.32.90.201:22/Storage/xd_6T/anaconda3/envs/CGL_NEWPA/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/Storage/xd_6T/CGL/WITT A Wireless Image Transmission Transformer For Semantic Communications" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://xd1@10.32.90.201:22/Storage/xd_6T/ZJ/anaconda3/envs/openmmlab-timm/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/Storage/xd_6T/CGL/WITT A Wireless Image Transmission Transformer For Semantic Communications" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
